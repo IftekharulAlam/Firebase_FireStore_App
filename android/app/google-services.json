@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "85562177782",
+    "project_id": "arctic-pad-319516",
+    "storage_bucket": "arctic-pad-319516.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85562177782:android:32c5e294eaf81da116d4d7",
+        "android_client_info": {
+          "package_name": "com.example.app_18_1_22"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85562177782-s0d4nm47ksrl8vqglq0e0q1lg4c37cd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyd3l3vgW5DLTCoPuTTp8w6kTyxBTNuOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85562177782-s0d4nm47ksrl8vqglq0e0q1lg4c37cd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
